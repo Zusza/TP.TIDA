@@ -1,0 +1,23 @@
+# action.py:
+def sum(a,b):
+#     return a+b
+# 
+# def roz(a,b):
+#     return a-b
+
+# test_action:
+# import unittest
+# import action
+# 
+# class TestAction(unittest.TestCase):
+#     def test_suma(self):
+#         self.assertEqual(action.sum(30, 5),35)
+#         self.assertEqual(action.sum(30, 7),37)
+#         self.assertEqual(action.sum(30, 3),33)
+#         self.assertEqual(action.sum(30, 6),36)
+# 
+#     def test_roznica(self):
+#         self.assertEqual(action.roz(30, 5),25)
+#         self.assertEqual(action.roz(30, 7),23)
+#         self.assertEqual(action.roz(30, 3),27)
+#         self.assertEqual(action.roz(30, 6),24)

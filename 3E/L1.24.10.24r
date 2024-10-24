@@ -1,11 +1,14 @@
-# action.py:
+# # action.py:
 def sum(a,b):
 #     return a+b
 # 
 # def roz(a,b):
 #     return a-b
-
-# test_action:
+# 
+# def NWD(a,b):
+#     Dokończzz
+# 
+# # test_action:
 # import unittest
 # import action
 # 
@@ -21,3 +24,7 @@ def sum(a,b):
 #         self.assertEqual(action.roz(30, 7),23)
 #         self.assertEqual(action.roz(30, 3),27)
 #         self.assertEqual(action.roz(30, 6),24)
+# 
+#     def test_nwd(self):
+#         self.assertEqual(action.NWD(12,10), 2)
+#         self.assertEqual(action.NWD(20,10),5)
